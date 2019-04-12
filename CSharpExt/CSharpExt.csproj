@@ -51,6 +51,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WeDriverExtensions\WebDriverExtensions.cs" />
+    <Compile Include="WeDriverExtensions\WebElementExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
